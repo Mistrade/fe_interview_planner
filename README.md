@@ -20,5 +20,5 @@
 - [Webpack / webpack-cli / webpack-dev-server / и др. плагины для webpack](https://webpack.js.org) 5.88+
 
 ## Авторы приложения
-- [Усманов Ильдар](https://vk.com/skyw41k3r) - Frontend-developer
-- [Черников Андрей](https://vk.com/mistrade) - Backend-developer
+- Усманов Ильдар - Frontend-developer. Links: [VK](https://vk.com/skyw41k3r) | [Telegram](https://telegram.me/skyw41k3r)
+- Черников Андрей - FullStack-developer. Links: [Github](https://github.com/Mistrade) | [VK](https://vk.com/mistrade) | [Telegram](https://telegram.me/andreimistrade)
