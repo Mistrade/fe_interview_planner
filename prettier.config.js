@@ -4,7 +4,7 @@ module.exports = {
   singleQuote: true,
   jsxSingleQuote: true,
   trailingComma: 'es5',
-  code: 80,
+  code: 100,
   before: true,
   after: true,
   importOrderSeparation: true,
